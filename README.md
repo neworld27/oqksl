@@ -11,4 +11,4 @@ What does this project do and why is it helpful?
  = In the School cafeteria, there are no reservation service. Students who are in a great hurry just want to get their food right away, finish them right away. However, Due to the highly increasing line in cafeteria, students give up. To increase the rotation rate of the food, this project might help some.
 
 Contact for more advise or revise "21700036@handong.edu"
-Video Link :
+Video Link : https://youtu.be/bJZpN_rkdR0
