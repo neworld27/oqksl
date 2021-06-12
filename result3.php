@@ -12,7 +12,7 @@ body {
 <body>
 <?php  
 $name = $_POST["name"];
-$SchoolId = $_POST["SchoolId"];
+$SchoolId = $_POST["ShoolId"];
 $burger1 = $_POST["burger1"];
 $burger2 = $_POST["burger2"];
 $burger3 = $_POST["burger3"];
