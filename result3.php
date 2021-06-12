@@ -12,7 +12,7 @@ body {
 <body>
 <?php  
 $name = $_POST["name"];
-$SchoolId = $_POST["ShoolId"];
+$SchoolId = $_POST["SchoolId"];
 $burger1 = $_POST["burger1"];
 $burger2 = $_POST["burger2"];
 $burger3 = $_POST["burger3"];
@@ -26,7 +26,7 @@ $Drink5 = $_POST["Drink5"];
 $PickUp = $_POST["PickUp"];
 
 echo "Nick Name : $name<br>";
-echo "School Id : $
+echo "School Id : $SchoolId<br>";
 echo "Burger : $burger1 $burger2 $burger3 $burger4 $burger5<br>";  
 echo "Drink : $Drink1 $Drink2 $Drink3 $Drink4 $Drink5<br>";
 echo "Order Time : ". date("Y-m-d   H:i:s")."<br/>";
